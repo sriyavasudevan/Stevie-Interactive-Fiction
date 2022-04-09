@@ -1,0 +1,3 @@
+java -jar glaive.jar -d planning-domains/mbf/domain.pddl -p planning-domains/mbf/problem.pddl -s -ws planning-domains/mbf/space.pddl
+
+java -jar glaive.jar -d planning-domains/mbf/domain.pddl -p planning-domains/mbf/problem.pddl -rs planning-domains/mbf/space.pddl -tl 1000 -nl 100 -o planning-domains/mbf/solution.pddl

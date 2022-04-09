@@ -1,0 +1,5 @@
+(define (problem get-banana) 
+  (:domain simple) 
+  (:init) 
+  (:goal (player-has banana))
+)

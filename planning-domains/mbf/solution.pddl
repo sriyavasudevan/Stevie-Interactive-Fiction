@@ -1,0 +1,8 @@
+(define (plan get-on-chair-and-wave-stick-solution)
+  (:problem get-on-chair-and-wave-stick)
+  (:steps (take STICK)
+          (get-on CHAIR)
+          (wave STICK)
+          (get-off CHAIR)
+          (take BANANA)
+          (eat BANANA)))

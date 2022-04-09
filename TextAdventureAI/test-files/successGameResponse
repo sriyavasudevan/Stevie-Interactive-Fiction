@@ -1,0 +1,41 @@
+Success
+LAB contains PLAYER
+-
+Success
+LAB contains CHAIR
+LAB contains STICK
+LAB contains HOOK
+HOOK contains BANANA
+-
+Failure
+LAB does not contain BANANA
+-
+Success
+PLAYER contains STICK
+LAB does not contain STICK
+STICK is portable
+-
+Success
+PLAYER waves STICK
+STICK is waveable
+-
+Success
+CHAIR contains PLAYER
+LAB does not contain PLAYER
+CHAIR is climbable
+-
+Success
+LAB contains BANANA
+HOOK does not contain BANANA
+-
+Success
+LAB contains PLAYER
+CHAIR does not contain PLAYER
+-
+Success
+PLAYER contains BANANA
+LAB does not contain BANANA
+BANANA is portable
+-
+Success
+PLAYER eats BANANA

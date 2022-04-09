@@ -1,0 +1,16 @@
+Success
+LAB contains PLAYER
+-
+Success
+LAB contains CHAIR
+LAB contains STICK
+LAB contains HOOK
+HOOK contains BANANA
+-
+Failure
+LAB does not contain BANANA
+-
+Success
+PLAYER contains STICK
+LAB does not contain STICK
+STICK is portable
